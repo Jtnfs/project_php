@@ -1,6 +1,6 @@
 <?php
 
-// Attention : le nom ici doit être EXACTEMENT le nom du fichier créé au-dessu
+// Attention : le nom ici doit être EXACTEMENT le nom du fichier créé au-dessus
 require 'fonction.php';
 
 $resultat_traduction = null;
